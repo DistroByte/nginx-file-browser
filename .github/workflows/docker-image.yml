@@ -8,6 +8,8 @@ on:
   push:
     branches:
       - "master"
+      - "college"
+      - "share"
   
 jobs:
   build-and-push-image:
